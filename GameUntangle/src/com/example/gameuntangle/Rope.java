@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import android.graphics.PointF;
 
 //x个节点，最多画出(x-2)*3条 不相交的线段
-
 public class Rope {
 	private int pointNum;
 	private PointF[] allPoints;
